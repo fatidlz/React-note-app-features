@@ -3,19 +3,19 @@
 This project is a simple Note App built with React. Users can create, update, and delete notes. The app features synchronization with localStorage, note summary titles, moving modified notes to the top of the list, and the ability to delete notes.
 
 ## Table of Contents
--Features
--Demo
--Installation
--Usage
--Contributing
--License
+* Features
+* Demo
+* Installation
+* Usage
+* Contributing
+* License
 
 ## Features
 * Create, update, and delete notes.
--Sync notes with localStorage for persistent data.
--Display note summary titles in the sidebar.
--Move modified notes to the top of the list for better visibility.
--Delete notes with a simple button click.
+* Sync notes with localStorage for persistent data.
+* Display note summary titles in the sidebar.
+* Move modified notes to the top of the list for better visibility.
+* Delete notes with a simple button click.
 
 ## Demo
 Provide a link to a live demo of your project or a set of screenshots showcasing its features.
