@@ -11,7 +11,7 @@ This project is a simple Note App built with React. Users can create, update, an
 -License
 
 ## Features
--Create, update, and delete notes.
+* Create, update, and delete notes.
 -Sync notes with localStorage for persistent data.
 -Display note summary titles in the sidebar.
 -Move modified notes to the top of the list for better visibility.
